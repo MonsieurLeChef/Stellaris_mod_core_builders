@@ -1,6 +1,0 @@
-# core_species_ships.txt
-core_species_ship_1 = {
-  name = "Core Species Ship 1"
-  description = "A unique ship for the Core Species with advanced weaponry and defenses."
-  # Additional ship properties
-}
