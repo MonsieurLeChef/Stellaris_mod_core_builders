@@ -1,0 +1,6 @@
+# core_species_hyperlanes.txt
+hyperlanes = {
+  from = "Core System"
+  to = "Random System"
+  length = 10
+}
