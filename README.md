@@ -9,16 +9,3 @@ A mod for Stellaris that adds a new species category "Core Species", similar to 
 
 ## Usage
 Activate the mod in the Stellaris launcher.
-
-## New Content
-### Species
-- New species category "Core Species" with special characteristics and abilities.
-
-### Connections
-- L-gate and other connections from a central system.
-
-### Buildings and Megastructures
-- Unique starbases and special megastructures.
-
-### Ships and Fleets
-- Unique ship types and weapon types that cannot be researched by any other empire.
