@@ -1,0 +1,7 @@
+# ship_types.txt
+core_species_ship = {
+  key = "core_species_ship"
+  name = "Core Species Ship"
+  description = "A unique ship type for the Core Species."
+  # Additional properties
+}
