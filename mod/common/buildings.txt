@@ -1,0 +1,7 @@
+# buildings.txt
+core_species_starbase = {
+  key = "core_species_starbase"
+  name = "Core Species Starbase"
+  description = "A unique starbase for the Core Species with advanced capabilities."
+  # Additional properties
+}
