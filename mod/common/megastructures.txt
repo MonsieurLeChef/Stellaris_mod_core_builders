@@ -1,0 +1,7 @@
+# megastructures.txt
+core_species_megastructure = {
+  key = "core_species_megastructure"
+  name = "Core Species Megastructure"
+  description = "A unique megastructure for the Core Species."
+  # Additional properties
+}
