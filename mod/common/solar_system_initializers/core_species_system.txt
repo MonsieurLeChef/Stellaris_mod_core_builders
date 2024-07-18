@@ -1,0 +1,26 @@
+# core_species_system.txt
+core_species_system = {
+  name = "Core System"
+  class = "pc_continental"
+  initializer = {
+    planet = {
+      name = "Core Prime"
+      class = "pc_continental"
+      size = 25
+      has_rings = yes
+      orbit_distance = 20
+      moon = {
+        name = "Core Moon"
+        class = "pc_barren"
+      }
+    }
+    asteroid = {
+      name = "Core Asteroid Belt"
+      class = "pc_asteroid"
+    }
+    star = {
+      name = "Core Star"
+      class = "star_yellow_giant"
+    }
+  }
+}
