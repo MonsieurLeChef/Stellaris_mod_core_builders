@@ -1,6 +1,11 @@
-# species_classes.txt
+# core_species.txt
 core_species = {
   name = "Core Species"
-  description = "A unique species with advanced technologies and special characteristics."
-  # Additional species characteristics
+  playable = yes
+  graphical_culture = "mammalian_01"
+  portrait = "core_species_portrait"
+  traits = {
+    trait = "trait_intelligent"
+    trait = "trait_enduring"
+  }
 }
