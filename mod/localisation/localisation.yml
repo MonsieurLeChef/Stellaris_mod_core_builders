@@ -5,6 +5,8 @@ en:
   core_species_megastructure: "Core Species Megastructure"
   core_species_ship: "Core Species Ship"
   core_species_arrival: "Arrival of the Core Species"
+  trait_core_species_advanced_mind: "Advanced Mind"
+  trait_core_species_advanced_mind_desc: "This species has an advanced mind that boosts research speed."
 
 de:
   core_species: "Kernweltler"
@@ -12,3 +14,6 @@ de:
   core_species_megastructure: "Kernweltler Megastruktur"
   core_species_ship: "Kernweltler Schiff"
   core_species_arrival: "Ankunft der Kernweltler"
+  trait_core_species_advanced_mind: "Fortgeschrittener Verstand"
+  trait_core_species_advanced_mind_desc: "Diese Spezies hat einen fortgeschrittenen Verstand, der die Forschungsgeschwindigkeit erhöht."
+  
