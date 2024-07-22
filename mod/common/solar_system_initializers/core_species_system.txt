@@ -1,4 +1,4 @@
-# core_species_system.txt
+# core_species_systems.txt
 core_species_system = {
   name = "Core System"
   class = "pc_continental"
@@ -21,6 +21,86 @@ core_species_system = {
     star = {
       name = "Core Star"
       class = "star_yellow_giant"
+    }
+  }
+}
+
+core_species_system_1 = {
+  name = "Core System 1"
+  class = "pc_ocean"
+  initializer = {
+    planet = {
+      name = "Core Water"
+      class = "pc_ocean"
+      size = 20
+    }
+    star = {
+      name = "Core Star 1"
+      class = "star_blue_giant"
+    }
+  }
+}
+
+core_species_system_2 = {
+  name = "Core System 2"
+  class = "pc_tropical"
+  initializer = {
+    planet = {
+      name = "Core Jungle"
+      class = "pc_tropical"
+      size = 22
+    }
+    star = {
+      name = "Core Star 2"
+      class = "star_yellow_giant"
+    }
+  }
+}
+
+core_species_system_3 = {
+  name = "Core System 3"
+  class = "pc_arid"
+  initializer = {
+    planet = {
+      name = "Core Desert"
+      class = "pc_arid"
+      size = 18
+    }
+    star = {
+      name = "Core Star 3"
+      class = "star_red_giant"
+    }
+  }
+}
+
+core_species_system_4 = {
+  name = "Core System 4"
+  class = "pc_arctic"
+  initializer = {
+    planet = {
+      name = "Core Ice"
+      class = "pc_arctic"
+      size = 21
+    }
+    star = {
+      name = "Core Star 4"
+      class = "star_blue_giant"
+    }
+  }
+}
+
+core_species_system_5 = {
+  name = "Core System 5"
+  class = "pc_tundra"
+  initializer = {
+    planet = {
+      name = "Core Tundra"
+      class = "pc_tundra"
+      size = 19
+    }
+    star = {
+      name = "Core Star 5"
+      class = "star_white_dwarf"
     }
   }
 }
