@@ -10,5 +10,7 @@ jobs:
     - uses: cwtools/cwtools-action@v1.1.0
       with:
         game: stellaris
-      env:
-        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }} # required, secret is automatically set by github
+        modPath: "mod"
+        locLanguages: "english german"
+    env:
+        default: ${{ secrets.GITHUB_TOKEN }}
