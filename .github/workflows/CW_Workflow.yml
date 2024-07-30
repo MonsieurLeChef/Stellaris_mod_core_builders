@@ -13,4 +13,4 @@ jobs:
         modPath: "mod"
         locLanguages: "english german"
     env:
-        GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
