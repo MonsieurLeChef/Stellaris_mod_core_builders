@@ -1,7 +1,15 @@
 # core_species_events.txt
 event_core_species_arrival = {
-  id = "core_species_arrival"
-  title = "Arrival of the Core Species"
-  description = "A unique event marking the arrival of the Core Species in the galaxy."
-  # Additional event properties
+	is_triggered_only = yes
+	id = "core_species_arrival"
+	title = "Arrival of the Core Species"
+	desc = "A unique event marking the arrival of the Core Species in the galaxy."
+	trigger = {
+		has_global_flag = core_species_arrival
+	}
+	immediate = {
+		add_modifier = {
+			modifier = science_inspiration
+		}
+	}
 }

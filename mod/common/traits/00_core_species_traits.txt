@@ -1,22 +1,8 @@
 # 00_core_species_traits.txt
 trait_core_species_advanced_mind = {
-  cost = 3
+  cost = 2
   modifier = {
-    research_speed = 0.10
-  }
-  potential = {
-    has_species_class = core_species
-  }
-  species_potential_add = {
-    always = yes
-  }
-  species_potential_remove = {
-    exists = owner
-    owner = {
-      NOR = {
-        has_ethic = ethic_fanatic_materialist
-        has_ethic = ethic_materialist
-      }
-    }
-  }
+		leader_lifespan_add = 20
+	}
 }
+
